@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/74/40/34/360_F_374403488_hra64FoF9UV4BYGPDvp3amC0Z30s52Xc.jpg)](https://medium.com/@quantumpedia)
 <h1 align="center">Hi 👋, I'm Louis Chen</h1>
 <h3 align="center">A passionate Quantum Computing Scientist from Taiwan</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisanity&label=Profile%20views&color=0e75b6&style=flat" alt="louisanity" /> </p>
 
