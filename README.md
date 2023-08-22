@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Quantum Computing/ Quantum Communication**
 
-- 📝 I regularly write articles on [https://medium.com/@quantumpedia](https://medium.com/@quantumpedia)
+- 📝 I regularly write articles on [quantumpedia.uk](quantumpedia.uk)
 
 - 💬 Ask me about **Quantum Machine Learning/ Quantum Error Correction**
 
